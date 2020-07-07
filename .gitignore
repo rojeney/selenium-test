@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Selenium-App/Selenium-App/bin/Debug
+/Selenium-App/Selenium-App/obj/Debug
